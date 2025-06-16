@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aidos
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: t.me@Doris060 
 - - 😄 Pronouns: he/his/him
