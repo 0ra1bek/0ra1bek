@@ -1,9 +1,9 @@
 Manual QA Engineer
 -------------------------------------------------------------------------------------
-🔍 Focused on Manual QA: test case design, bug reporting, regression & smoke testing
-🌱 Currently sharpening skills through hands-on practice — see my Manual QA Portfolio for test cases and bug reports
-🛠️ Tools: Jira · TestRail · Postman · Chrome DevTools
-📫 Telegram: @Itiyy
+ Focused on Manual QA: test case design, bug reporting, regression & smoke testing
+ Currently sharpening skills through hands-on practice — see my Manual QA Portfolio for test cases and bug reports
+ Tools: Jira · TestRail · Postman · Chrome DevTools
+ Telegram: @Itiyy
 ---------------------------------------------------------------------------------------------------------------------
 Skills:
 ------------------------------------------------------------------------------------------------------
